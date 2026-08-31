@@ -1,13 +1,13 @@
-## Hi, I'm Genius Lu 👋
+## Hi, I'm Genius Lu.
 
-`CS Undergrad` `Java Developer` `AI Agent Explorer`
+`CS Undergrad` `Java Developer` `AI Agent Enthusiast`
 
-- I like building things with **Java & AI**, still learning along the way
+- I like **Java & AI Agent development**, still learning and exploring
 
 - building: **CampusPilot-AI** · **WeChat-iLink-Multimodal-Bot** · **WorldMuse**
 
-- 🏆 2025 HarmonyOS Developer Incentive Program · 📜 3 Software Copyrights
+- achievements: 🏆 **2025 HarmonyOS Developer Incentive Program** · 📜 **3 Software Copyrights**
 
-- enjoy: `AI Agents` · `LLMs` · `RAG` · `HarmonyOS`
+- enjoy: 1️⃣ **AI Agents** · 2️⃣ **LLMs** · 3️⃣ **HarmonyOS Development**
 
-when I'm not coding: probably learning something new :)
+when I'm not coding: learning something new & playing games :)
