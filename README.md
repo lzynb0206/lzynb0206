@@ -1,23 +1,18 @@
-## Hi, I'm Genius Lu 👋
+## Hi, I'm Genius Lu.
 
-`CS Undergrad` `AI Agent Developer` `Full-Stack Explorer`
+`CS Undergrad` `Java Developer` `AI Agent Enthusiast`
 
-- 🤖 Interested in **AI Agents, LLMs & Multimodal Applications**
-- 🧠 Exploring **RAG, Tool Calling, MCP & Agent Workflows**
-- 💻 Building with **Java / Spring Boot / HarmonyOS / TypeScript**
+- I like Java, AI Agents & building interesting things, feel free to reach out
 
-### 🚀 Building
+- building:
+  [CampusPilot-AI](https://github.com/lzynb0206/CampusPilot-AI) ·
+  [WeChat-iLink-Multimodal-Bot](https://github.com/lzynb0206/WeChat-iLink-Multimodal-Bot) ·
+  [WorldMuse](https://github.com/lzynb0206/WorldMuse-V1.0_HarmonyOS_6.0)
 
-- [CampusPilot-AI] — AI Agent for campus event planning
-- [WeChat-iLink-Multimodal-Bot] — Multimodal WeChat AI Bot
-- [WorldMuse-V1.0_HarmonyOS_6.0] — HarmonyOS museum & culture app
+- achievements:
+  🏆 2025 HarmonyOS Developer Incentive Program · 📜 3 Software Copyrights
 
-- achievements: 🏆 **2025 HarmonyOS Developer Incentive Program** · 📜 **3 Software Copyrights**
+- enjoy:
+  1️⃣ AI Agents · 2️⃣ LLMs · 3️⃣ Java & HarmonyOS
 
-### 🛠 Tech
-
-`Java` `Spring Boot` `TypeScript` `HarmonyOS` `LLM` `RAG` `Agent`
-
-### 🌱 Currently
-
-Learning more about **AI Agents, mobile development and intelligent applications**.
+when I'm not coding: learning something new & exploring new ideas :)
