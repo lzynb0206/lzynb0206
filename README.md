@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <sub><b>CS Undergrad</b> · Java Developer · AI Agent Enthusiast</sub>
+  <sub><b>Data Science &amp; Big Data Student</b> · Brain–Computer Interfaces &amp; Drone Swarms · AI Agent Builder</sub>
   <br/>
   <sub>🏆 2025 HarmonyOS Developer Incentive Program &nbsp;·&nbsp; 📜 3 Software Copyrights</sub>
 </div>
@@ -87,6 +87,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=lzynb0206&amp;label=Profile%20views&amp;color=F4795B&amp;style=flat" alt="Profile views" />
 
-<sub>CS undergrad building Java AI agents and native HarmonyOS experiences. The sky follows the Beijing forecast and the garden follows the season — powered by <a href="https://github.com/yuki4266/living-scene">living-scene</a>.</sub>
+<sub>Data Science &amp; Big Data student exploring brain–computer interfaces, EEG-driven drone systems, Java AI agents, and native HarmonyOS applications. The sky follows the Beijing forecast and the garden follows the season.</sub>
 
 </div>
