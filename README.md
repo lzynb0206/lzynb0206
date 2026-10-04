@@ -85,8 +85,6 @@
     <img src="garden-footer.svg" width="900" alt="seasonal garden footer" />
   </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lzynb0206&label=Profile%20views&color=F4795B&style=flat&v=original-2)
-
 <sub>Data Science &amp; Big Data student building Java AI agents and native HarmonyOS applications. The sky follows the Beijing forecast and the garden follows the season.</sub>
 
 </div>
