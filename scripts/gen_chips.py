@@ -18,6 +18,7 @@ ICON_URL = "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/{}.svg"
 FONT = "Segoe UI, Ubuntu, Helvetica, Arial, sans-serif"
 CHIP_COLOURS = ["#E2542F", "#F4795B", "#ED8B66", "#7FA36B"]  # cycles along each row
 GREY = "#8b949e"
+CACHE_VERSION = "original-palette-v2"
 
 # (row label, petal colour, centre colour, chips)
 # chip = (file slug, Simple Icons slug or None, label, description)
@@ -207,7 +208,7 @@ def readme_block():
     """Image URLs carry a content hash: GitHub's image proxy caches by URL, so a
     regenerated chip under the same path would otherwise stay stale for hours."""
     def img(name, alt):
-        digest = hashlib.sha1((OUT / name).read_bytes()).hexdigest()[:8]
+        digest = hashlib.sha1(CACHE_VERSION.encode() + (OUT / name).read_bytes()).hexdigest()[:8]
         return f'<img src="chips/{name}?v={digest}" alt="{html.escape(alt)}" />'
 
     rows, guides = [], []
