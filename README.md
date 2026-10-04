@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <sub><b>Data Science &amp; Big Data Student</b> · Brain–Computer Interfaces &amp; Drone Swarms · AI Agent Builder</sub>
+  <sub><b>Data Science &amp; Big Data Student</b> · Java Developer · AI Agent Enthusiast</sub>
   <br/>
   <sub>🏆 2025 HarmonyOS Developer Incentive Program &nbsp;·&nbsp; 📜 3 Software Copyrights</sub>
 </div>
@@ -85,8 +85,8 @@
     <img src="garden-footer.svg" width="900" alt="seasonal garden footer" />
   </picture>
 
-<img src="https://komarev.com/ghpvc/?username=lzynb0206&amp;label=Profile%20views&amp;color=F4795B&amp;style=flat" alt="Profile views" />
+![Profile Views](https://komarev.com/ghpvc/?username=lzynb0206&label=Profile%20views&color=800020&style=flat)
 
-<sub>Data Science &amp; Big Data student exploring brain–computer interfaces, EEG-driven drone systems, Java AI agents, and native HarmonyOS applications. The sky follows the Beijing forecast and the garden follows the season.</sub>
+<sub>Data Science &amp; Big Data student building Java AI agents and native HarmonyOS applications. The sky follows the Beijing forecast and the garden follows the season.</sub>
 
 </div>
