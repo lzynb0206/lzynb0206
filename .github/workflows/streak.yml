@@ -1,9 +1,9 @@
 name: Bake streak card
 
 on:
-  # refresh every 12 hours
+  # refresh every hour
   schedule:
-    - cron: "41 */12 * * *"
+    - cron: "41 * * * *"
   # allow manual trigger from the Actions tab
   workflow_dispatch:
 

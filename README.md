@@ -85,7 +85,7 @@
     <img src="garden-footer.svg" width="900" alt="seasonal garden footer" />
   </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lzynb0206&label=Profile%20views&color=F4795B&style=flat)
+<img src="https://komarev.com/ghpvc/?username=lzynb0206&amp;label=Profile%20views&amp;color=F4795B&amp;style=flat" alt="Profile views" />
 
 <sub>CS undergrad building Java AI agents and native HarmonyOS experiences. The sky follows the Beijing forecast and the garden follows the season — powered by <a href="https://github.com/yuki4266/living-scene">living-scene</a>.</sub>
 
