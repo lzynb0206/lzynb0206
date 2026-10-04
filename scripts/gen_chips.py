@@ -16,15 +16,13 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "chips"
 ICON_URL = "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/{}.svg"
 FONT = "Segoe UI, Ubuntu, Helvetica, Arial, sans-serif"
-# Burgundy spectrum shared with the blooming header. The tones cycle across
-# each row, creating a deep-wine to dusty-rose progression on dark and light UI.
-CHIP_COLOURS = ["#7F1736", "#922344", "#A83E5C", "#C05A76"]
+CHIP_COLOURS = ["#E2542F", "#F4795B", "#ED8B66", "#7FA36B"]  # cycles along each row
 GREY = "#8b949e"
 
 # (row label, petal colour, centre colour, chips)
 # chip = (file slug, Simple Icons slug or None, label, description)
 STACK = [
-    ("AI AGENTS", "#7F1736", "#5A0B22", [
+    ("AI AGENTS", "#7FA36B", "#5E8B4F", [
         ("agent", None, "AI Agent",
          "The centre of my current work: turning an LLM into a dependable product with routing, memory, tools, validation and safe execution boundaries."),
         ("functioncalling", None, "Function Calling",
@@ -38,7 +36,7 @@ STACK = [
         ("taskdag", None, "Task DAG",
          "Dependency-aware orchestration, virtual-thread execution, evaluator retries and checkpoint recovery for long agent workflows."),
     ]),
-    ("JAVA", "#89203E", "#640F28", [
+    ("JAVA", "#EEA53A", "#D98828", [
         ("openjdk", "openjdk", "Java 21",
          "My main language, using records and virtual threads to build concurrent AI applications with explicit, testable control flow."),
         ("springboot", "springboot", "Spring Boot",
@@ -52,7 +50,7 @@ STACK = [
         ("mockito", None, "Mockito",
          "Focused unit tests around external clients and workflow collaborators without depending on live third-party services."),
     ]),
-    ("AI PLATFORM", "#96344F", "#70172F", [
+    ("AI PLATFORM", "#F4795B", "#E2542F", [
         ("qwen", "qwen", "Qwen",
          "Chat, vision, image, translation and speech models used across my multimodal Java agent projects."),
         ("alibabacloud", "alibabacloud", "Model Studio",
@@ -66,7 +64,7 @@ STACK = [
         ("seniverse", None, "Seniverse",
          "Current weather and forecasts used by live tools, daily briefs and event-date risk assessment."),
     ]),
-    ("HARMONYOS", "#A83E5C", "#7D203A", [
+    ("HARMONYOS", "#E86F9E", "#C64C7C", [
         ("harmonyos", "harmonyos", "HarmonyOS 6",
          "The native platform behind WorldMuse, my award-winning cloud museum and cultural learning application."),
         ("arkts", None, "ArkTS",
@@ -78,7 +76,7 @@ STACK = [
         ("typescript", "typescript", "TypeScript",
          "A core part of my typed front-end foundation and the primary language reported by the WorldMuse repository."),
     ]),
-    ("TOOLS", "#C05A76", "#922C4A", [
+    ("TOOLS", "#9986D4", "#7361BE", [
         ("nodedotjs", "nodedotjs", "Node.js",
          "Supports the WeChat SILK audio pipeline and small project automation tasks alongside the Java services."),
         ("git", "git", "Git",

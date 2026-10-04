@@ -17,25 +17,25 @@
 <!-- ============ Tech Garden ============ -->
 <div align="center">
 
-<img src="chips/label-0.svg?v=07efe98a" alt="AI AGENTS" /> <img src="chips/agent.svg?v=7674d13e" alt="AI Agent" /> <img src="chips/functioncalling.svg?v=77e2a52e" alt="Function Calling" /> <img src="chips/skills.svg?v=0a98ea13" alt="Skills" /> <img src="chips/rag.svg?v=3587590e" alt="RAG" /> <img src="chips/multimodal.svg?v=328ff499" alt="Multimodal" /> <img src="chips/taskdag.svg?v=1002aeac" alt="Task DAG" />
+<img src="chips/label-0.svg?v=567989e2" alt="AI AGENTS" /> <img src="chips/agent.svg?v=103e93bf" alt="AI Agent" /> <img src="chips/functioncalling.svg?v=14785b24" alt="Function Calling" /> <img src="chips/skills.svg?v=3e155470" alt="Skills" /> <img src="chips/rag.svg?v=8ac2218f" alt="RAG" /> <img src="chips/multimodal.svg?v=21e580c4" alt="Multimodal" /> <img src="chips/taskdag.svg?v=21c19e48" alt="Task DAG" />
 <br/>
-<img src="chips/label-1.svg?v=fdd7a28f" alt="JAVA" /> <img src="chips/openjdk.svg?v=45ecf117" alt="Java 21" /> <img src="chips/springboot.svg?v=fa791915" alt="Spring Boot" /> <img src="chips/apachemaven.svg?v=b701f488" alt="Maven" /> <img src="chips/jackson.svg?v=0a78faba" alt="Jackson" /> <img src="chips/junit5.svg?v=d66c6ba5" alt="JUnit 5" /> <img src="chips/mockito.svg?v=1009fd29" alt="Mockito" />
+<img src="chips/label-1.svg?v=287b58ba" alt="JAVA" /> <img src="chips/openjdk.svg?v=b48469f7" alt="Java 21" /> <img src="chips/springboot.svg?v=00860106" alt="Spring Boot" /> <img src="chips/apachemaven.svg?v=517e123d" alt="Maven" /> <img src="chips/jackson.svg?v=a56d9e06" alt="Jackson" /> <img src="chips/junit5.svg?v=969743d0" alt="JUnit 5" /> <img src="chips/mockito.svg?v=2351f765" alt="Mockito" />
 <br/>
-<img src="chips/label-2.svg?v=0a389a42" alt="AI PLATFORM" /> <img src="chips/qwen.svg?v=35f0aecb" alt="Qwen" /> <img src="chips/alibabacloud.svg?v=cddd4e4d" alt="Model Studio" /> <img src="chips/wechat.svg?v=c38480ba" alt="WeChat iLink" /> <img src="chips/cosyvoice.svg?v=a8085c43" alt="CosyVoice" /> <img src="chips/amap.svg?v=19f099ab" alt="AMap" /> <img src="chips/seniverse.svg?v=edcd6d4a" alt="Seniverse" />
+<img src="chips/label-2.svg?v=5711dce5" alt="AI PLATFORM" /> <img src="chips/qwen.svg?v=655ab293" alt="Qwen" /> <img src="chips/alibabacloud.svg?v=e3572f69" alt="Model Studio" /> <img src="chips/wechat.svg?v=e2a3d5c1" alt="WeChat iLink" /> <img src="chips/cosyvoice.svg?v=ac8f5e51" alt="CosyVoice" /> <img src="chips/amap.svg?v=d3bcee61" alt="AMap" /> <img src="chips/seniverse.svg?v=fe5412ad" alt="Seniverse" />
 <br/>
-<img src="chips/label-3.svg?v=4a44de52" alt="HARMONYOS" /> <img src="chips/harmonyos.svg?v=0423077a" alt="HarmonyOS 6" /> <img src="chips/arkts.svg?v=de871961" alt="ArkTS" /> <img src="chips/arkui.svg?v=4fae3db2" alt="ArkUI" /> <img src="chips/deveco.svg?v=d619a9ec" alt="DevEco Studio" /> <img src="chips/typescript.svg?v=0b0dec45" alt="TypeScript" />
+<img src="chips/label-3.svg?v=fc13b6f9" alt="HARMONYOS" /> <img src="chips/harmonyos.svg?v=b87156df" alt="HarmonyOS 6" /> <img src="chips/arkts.svg?v=2fd7124d" alt="ArkTS" /> <img src="chips/arkui.svg?v=346ae234" alt="ArkUI" /> <img src="chips/deveco.svg?v=a20906d8" alt="DevEco Studio" /> <img src="chips/typescript.svg?v=f298f77f" alt="TypeScript" />
 <br/>
-<img src="chips/label-4.svg?v=fafa80c8" alt="TOOLS" /> <img src="chips/nodedotjs.svg?v=0c88ae81" alt="Node.js" /> <img src="chips/git.svg?v=3d5df884" alt="Git" /> <img src="chips/githubactions.svg?v=6f625243" alt="GitHub Actions" /> <img src="chips/python.svg?v=e49e7804" alt="Python" /> <img src="chips/jupyter.svg?v=65f1d929" alt="Jupyter" />
+<img src="chips/label-4.svg?v=07ed192e" alt="TOOLS" /> <img src="chips/nodedotjs.svg?v=6c314460" alt="Node.js" /> <img src="chips/git.svg?v=016b9f75" alt="Git" /> <img src="chips/githubactions.svg?v=af0f929e" alt="GitHub Actions" /> <img src="chips/python.svg?v=e631b55a" alt="Python" /> <img src="chips/jupyter.svg?v=57098701" alt="Jupyter" />
 
 <details>
 <summary>🌱 &nbsp;<b>Field guide</b> — open to read what every chip actually is</summary>
 <br/>
 <div align="center">
-<img src="chips/guide-0.svg?v=6b99c586" alt="AI AGENTS field guide" /><br/>
-<img src="chips/guide-1.svg?v=4949443d" alt="JAVA field guide" /><br/>
-<img src="chips/guide-2.svg?v=55bc6e8a" alt="AI PLATFORM field guide" /><br/>
-<img src="chips/guide-3.svg?v=4ac2b3b8" alt="HARMONYOS field guide" /><br/>
-<img src="chips/guide-4.svg?v=fff2aca1" alt="TOOLS field guide" /><br/>
+<img src="chips/guide-0.svg?v=0a2e873f" alt="AI AGENTS field guide" /><br/>
+<img src="chips/guide-1.svg?v=b44d4db8" alt="JAVA field guide" /><br/>
+<img src="chips/guide-2.svg?v=2cca898e" alt="AI PLATFORM field guide" /><br/>
+<img src="chips/guide-3.svg?v=b80fc271" alt="HARMONYOS field guide" /><br/>
+<img src="chips/guide-4.svg?v=f9819662" alt="TOOLS field guide" /><br/>
 </div>
 </details>
 
@@ -85,7 +85,7 @@
     <img src="garden-footer.svg" width="900" alt="seasonal garden footer" />
   </picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lzynb0206&label=Profile%20views&color=800020&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=lzynb0206&label=Profile%20views&color=F4795B&style=flat)
 
 <sub>Data Science &amp; Big Data student building Java AI agents and native HarmonyOS applications. The sky follows the Beijing forecast and the garden follows the season.</sub>
 
