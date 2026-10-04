@@ -50,9 +50,15 @@
 
 <a href="https://github.com/lzynb0206/CampusPilot-AI"><img src="projects/campus-pilot.svg" width="860" alt="CampusPilot AI" /></a>
 <br/>
+<a href="https://github.com/lzynb0206/CampusPilot-AI/stargazers"><img src="https://img.shields.io/github/stars/lzynb0206/CampusPilot-AI?style=flat&amp;logo=github&amp;label=Stars&amp;color=F4795B&amp;cacheSeconds=300" alt="CampusPilot-AI stars" /></a>
+<br/><br/>
 <a href="https://github.com/lzynb0206/WeChat-iLink-Multimodal-Bot"><img src="projects/wechat-bot.svg" width="860" alt="WeChat iLink Multimodal Bot" /></a>
 <br/>
+<a href="https://github.com/lzynb0206/WeChat-iLink-Multimodal-Bot/stargazers"><img src="https://img.shields.io/github/stars/lzynb0206/WeChat-iLink-Multimodal-Bot?style=flat&amp;logo=github&amp;label=Stars&amp;color=7FA36B&amp;cacheSeconds=300" alt="WeChat-iLink-Multimodal-Bot stars" /></a>
+<br/><br/>
 <a href="https://github.com/lzynb0206/WorldMuse-V1.0_HarmonyOS_6.0"><img src="projects/worldmuse.svg" width="860" alt="WorldMuse" /></a>
+<br/>
+<a href="https://github.com/lzynb0206/WorldMuse-V1.0_HarmonyOS_6.0/stargazers"><img src="https://img.shields.io/github/stars/lzynb0206/WorldMuse-V1.0_HarmonyOS_6.0?style=flat&amp;logo=github&amp;label=Stars&amp;color=9986D4&amp;cacheSeconds=300" alt="WorldMuse stars" /></a>
 
 </div>
 

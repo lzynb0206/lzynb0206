@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - uses: actions/checkout@v4
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -26,6 +28,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#F4795B&color_dots=#EBEDF0,#FFE0B2,#FFB74D,#FB8C00,#E65100
             dist/github-contribution-grid-snake-dark.svg?color_snake=#F4795B&color_dots=#161B22,#5A3300,#A86A00,#FB8C00,#FFCC80
+
+      - name: slow snake animation to half speed
+        run: |
+          python3 scripts/slow_snake.py --factor 2 \
+            dist/github-contribution-grid-snake.svg \
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v4.0.0
