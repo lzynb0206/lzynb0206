@@ -9,7 +9,7 @@
 <div align="center">
   <sub><b>Data Science &amp; Big Data Student</b> · Java Developer · AI Agent Enthusiast</sub>
   <br/>
-  <sub>🏆 2025 HarmonyOS Developer Incentive Program &nbsp;·&nbsp; 📜 3 Software Copyrights</sub>
+  <sub>🏆 2025 HarmonyOS Developer Incentive Program &nbsp;·&nbsp; 📜 4 Software Copyrights</sub>
 </div>
 
 <br/>
